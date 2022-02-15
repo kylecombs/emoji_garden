@@ -1,4 +1,4 @@
-# Emoji Garden Script for twitter bot
+# Emoji Garden Script for Twitter Bot
 
 Emoji garden is a procedural script for growing gardens of emojis
 
