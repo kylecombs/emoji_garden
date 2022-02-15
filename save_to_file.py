@@ -20,6 +20,6 @@ while new_garden.validate_end() == False:
 # final output file
 new_garden.nextDay()
 final_output = new_garden.render()
-filename = os.path.join("outputs", f"test-{i + 1}.text")
+filename = os.path.join("outputs", f"test-{i}.text")
 with open(filename, "w") as f:
     f.write(final_output)
